@@ -7,8 +7,8 @@ int main(){
     cin >> val2;
 
     cout << "Sum :" << (val1 + val2) << endl;
+    cout << "End of file" << endl;
 
-
-
+    
     return 0;
 }
